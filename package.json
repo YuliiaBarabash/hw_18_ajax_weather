@@ -1,0 +1,14 @@
+{
+  "name": "homework_18_ajax_weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ajax_weather.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
